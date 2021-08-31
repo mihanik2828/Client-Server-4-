@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\clientchat\clientchat\obj\Debug\clientchat.csprojAssemblyReference.cache
+C:\Users\user\source\repos\clientchat\clientchat\obj\Debug\std.Form1.resources
+C:\Users\user\source\repos\clientchat\clientchat\obj\Debug\clientchat.Properties.Resources.resources
+C:\Users\user\source\repos\clientchat\clientchat\obj\Debug\clientchat.csproj.GenerateResource.cache
+C:\Users\user\source\repos\clientchat\clientchat\obj\Debug\clientchat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\clientchat\clientchat\bin\Debug\clientchat.exe.config
+C:\Users\user\source\repos\clientchat\clientchat\bin\Debug\clientchat.exe
+C:\Users\user\source\repos\clientchat\clientchat\bin\Debug\clientchat.pdb
+C:\Users\user\source\repos\clientchat\clientchat\obj\Debug\clientchat.exe
+C:\Users\user\source\repos\clientchat\clientchat\obj\Debug\clientchat.pdb
